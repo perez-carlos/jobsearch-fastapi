@@ -25,8 +25,8 @@ Follow these instructions to get the backend up and running on your local machin
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourgithubusername/fastapi-jobsearch-backend.git
-   cd fastapi-jobsearch-backend
+   git clone https://github.com/yourgithubusername/jobsearch-fastapi.git
+   cd <colned dir>
    ```
 
 2. **Install Dependencies**
